@@ -8,5 +8,9 @@
 - **Foundations of Cybersecurity** – Google  
   This course introduced core cybersecurity concepts such as security principles, common threats, risk awareness, and the responsibilities of cybersecurity professionals. It helped me understand how organizations work to protect systems, networks, and sensitive data.
 
+- **Play It Safe: Manage Threats and Risks** – Google  
+  This course focused on understanding how organizations identify security risks and manage threats before incidents occur. I learned how to evaluate assets, recognize vulnerabilities, and assess risk using structured approaches. The course introduced security controls, control categories, and compliance concepts such as PCI DSS, GDPR, and SOC. Through a simulated security audit scenario, I practiced reviewing an organization’s security posture, identifying missing controls, and recommending practical improvements to reduce risk.
+
+
 **Certificate Files (PDFs):**  
 [View certificates on Google Drive](https://drive.google.com/drive/folders/1lUGqb6X5I6qm4REa0kzL9qbJ0pp0nLZ5)
